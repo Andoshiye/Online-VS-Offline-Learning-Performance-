@@ -4,6 +4,8 @@
 
 This project compares student performance in online and offline learning environments to understand which method leads to better academic outcomes based on exam scores, focus level, retention, and study hours.
 
+To view this project in its raw form (in excel), click and download the Online Prediction file; Online_vs_offline_learning_database DONE.xlsx
+
 ## Tools Used
 
 Excel
